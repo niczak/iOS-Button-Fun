@@ -1,1 +1,1 @@
-This is just a simple example of an iOS application that uses buttons to interact with the application and pass data around which generates a label indicating which button was touched.
+This is a simple example of an iOS application that allows users to interact with buttons to which in turn passes data around in order to generate a label indicating which button was touched.
